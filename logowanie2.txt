@@ -1,1 +1,5 @@
-ddddpc
+<<<<<<< HEAD
+ddddpc po konfl
+=======
+lll
+>>>>>>> d5fc0fe4e20a34ae8b18d9069db75abe833c8991
